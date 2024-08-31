@@ -1,0 +1,8 @@
+.next
+.DS_Store
+node_modules
+public
+.prettierrc
+.prettierignore
+.eslintrc
+.eslintignore
