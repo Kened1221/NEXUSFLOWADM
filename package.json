@@ -9,9 +9,9 @@
     "lint": "eslint . --ext .js,.jsx,.ts,.tsx",
     "lint:fix": "eslint . --ext .js,.jsx,.ts,.tsx --fix",
     "format": "prettier --write .",
-    "format:fix": "prettier --write .",
-    "type": "module"
+    "format:fix": "prettier --write ."
   },
+  "type": "module",
   "dependencies": {
     "@clerk/nextjs": "^5.1.6",
     "@getbrevo/brevo": "^2.2.0",
